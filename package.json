@@ -813,7 +813,7 @@
         "fast-xml-parser": "^3.19.0",
         "fs-extra": "^8.0.0",
         "moment": "^2.24.0",
-        "open": "^8.0.4",
+        "open": "^8.4.0",
         "portfinder": "^1.0.25",
         "vscode-azureappservice": "^0.86.2",
         "vscode-azureextensionui": "^0.48.5",
