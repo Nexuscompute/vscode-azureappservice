@@ -808,7 +808,7 @@
     "dependencies": {
         "@azure/arm-appservice": "^6.1.0",
         "@azure/arm-resources": "^4.0.0",
-        "@azure/ms-rest-js": "^2.2.1",
+        "@azure/ms-rest-js": "^2.6.0",
         "dotenv": "^6.2.0",
         "fast-xml-parser": "^3.19.0",
         "fs-extra": "^8.0.0",
