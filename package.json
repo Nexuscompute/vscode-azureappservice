@@ -812,7 +812,7 @@
         "dotenv": "^6.2.0",
         "fast-xml-parser": "^3.19.0",
         "fs-extra": "^8.0.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "open": "^8.0.4",
         "portfinder": "^1.0.25",
         "vscode-azureappservice": "^0.86.2",
