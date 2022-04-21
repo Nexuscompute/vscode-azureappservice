@@ -814,7 +814,7 @@
         "@microsoft/vscode-azext-utils": "^0.1.1",
         "dayjs": "^1.11.0",
         "dotenv": "^6.2.0",
-        "fast-xml-parser": "^3.19.0",
+        "fast-xml-parser": "^3.21.1",
         "fs-extra": "^8.0.0",
         "open": "^8.0.4",
         "vscode-azurekudu": "^0.2.0",
