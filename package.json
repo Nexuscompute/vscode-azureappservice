@@ -805,7 +805,7 @@
         "dotenv": "^6.2.0",
         "fast-xml-parser": "^3.19.0",
         "fs-extra": "^8.0.0",
-        "open": "^8.0.4",
+        "open": "^8.4.2",
         "vscode-azurekudu": "^0.2.2",
         "vscode-nls": "^4.1.1"
     },
